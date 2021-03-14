@@ -1,50 +1,14 @@
 # Python basic (Part -I) [150 exercises with solution]
 
-1. Write a Python program to print the following string in a specific format (see the output).
+*DONE* Write a Python program to print the following string in a specific format (see the output).
 
-_Sample String :_ "Twinkle, twinkle, little star, How I wonder
-what you are! Up above the world so high, Like a diamond in the sky.
-Twinkle, twinkle, little star, How I wonder what you are"
-_Output :_
+*DONE* Write a Python program to get the Python version you are using.  
 
-<pre>Twinkle, twinkle, little star,
-	How I wonder what you are! 
-		Up above the world so high,   	
-		Like a diamond in the sky. 
-Twinkle, twinkle, little star, 
-	How I wonder what you are
-</pre>
+*DONE* Write a Python program to display the current date and time.
 
-[Click me to see the sample solution](https://www.w3resource.com/python-exercises/python-basic-exercise-1.php)
+*DONE* Write a Python program which accepts the radius of a circle from the user and compute the area.  
 
-2. Write a Python program to get the Python version you are using.  
-
-[Click me to see the sample solution](https://www.w3resource.com/python-exercises/python-basic-exercise-2.php)
-
-3. Write a Python program to display the current date and time.
-
-Sample Output :
-
-Current date and time :
-
-2014-07-05 14:34:14
-
-[Click me to see the sample solution](https://www.w3resource.com/python-exercises/python-basic-exercise-3.php)
-
-4. Write a Python program which accepts the radius of a circle from the user and compute the area.  
-
-_Sample Output : _
-
-r = 1.1
-
-Area =
-3.8013271108436504
-
-[Click me to see the sample solution](https://www.w3resource.com/python-exercises/python-basic-exercise-4.php)
-
- 5.  Write a Python program which accepts the user's first and last name and print them in reverse order with a space between them.  
-
-[Click me to see the sample solution](https://www.w3resource.com/python-exercises/python-basic-exercise-5.php)
+*DONE* Write a Python program which accepts the user's first and last name and print them in reverse order with a space between them.  
 
  6.  Write a Python program which accepts a
 sequence of comma-separated numbers from user and generate a list and a
